@@ -1,2 +1,2 @@
-# AI_Cetification_Program
+# AI_Certification_Program
 AI Courses
